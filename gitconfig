@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arisdgyalui@outlook.com
+	name = Aris Gyalui
